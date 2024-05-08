@@ -104,5 +104,8 @@
       }
     }
   },
-  "defaultProject": "utoronto"
+  "defaultProject": "utoronto",
+  "cli": {
+    "analytics": "56b75886-fe57-457a-96cc-c8d4831c4fcd"
+  }
 }
